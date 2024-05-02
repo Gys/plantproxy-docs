@@ -1,11 +1,13 @@
 ---
-title: My Site
-toc: false
+title: Documentation
+type: docs
+toc: true
+# next: docs/
 ---
 
-This is the landing page.
+### [Getting Started](docs/)
 
-## Explore
+<!-- ## Explore
 
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
@@ -14,4 +16,4 @@ This is the landing page.
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information, visit [Hextra](https://imfing.github.io/hextra). -->

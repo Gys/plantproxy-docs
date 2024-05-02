@@ -1,5 +1,10 @@
 # Hugo configuration file
-title: My Site
+title: PlantProxy
+# set the root of the content = start in public/
+contentDir: content
+baseURL: https://docs.plantproxy.com/
+languageCode: 'en-us'
+defaultContentLanguage: en
 
 # import hextra as module
 module:
@@ -11,46 +16,57 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
   # enable hextra syntax highlight
   highlight:
     noClasses: false
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
+    # - name: Documentation
+    #   pageRef: /docs
+    #   weight: 1
     - name: About
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "https://tally.so/r/waBrGB"
       weight: 3
     - name: Search
       weight: 4
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+    # - name: GitHub
+    #   weight: 5
+    #   url: "https://github.com/imfing/hextra-starter-template"
+    #   params:
+    #     icon: github
+    # - name: Twitter
+    #   weight: 6
+    #   url: "https://twitter.com/"
+    #   params:
+    #     icon: x-twitter
 
 params:
   navbar:
     displayTitle: true
     displayLogo: false
+    width: normal
+
+  page:
+    width: normal
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
+    width: normal
 
-  editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  ui:
+    breadcrumb_disable: true
+
+  # editURL:
+  #   enable: true
+  #   base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+

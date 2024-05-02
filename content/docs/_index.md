@@ -1,18 +1,12 @@
 ---
-title: Documentation
-next: first-page
+title: Getting Started
+toc: true
+type: docs
+folder: open
 ---
 
-This is a demo of the theme's documentation layout.
+**PlantProxy** is based on NFC which means *Near-field Communication*. It is a radio technology for very short distance, 1-2 cm. NFC is most commonly used for mobile payments, such as Google Pay and Apple Pay.
 
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+To get started with **PlantProxy** you need:
+ - A NFC capable mobile phone
+ - Pre-programmed NFC tags

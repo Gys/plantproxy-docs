@@ -3,4 +3,6 @@ title: About
 type: about
 ---
 
-This is the about page.
+PlantProxy keeps a diary for each plant.
+
+

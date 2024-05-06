@@ -1,7 +1,7 @@
 ---
 title: NFC Capable Mobiles
 type: docs
-# prev: /
+prev: /docs
 # next: docs/folder/
 ---
 ### iPhone

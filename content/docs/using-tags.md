@@ -15,6 +15,8 @@ Open your phone and hold the top very close (1 cm) to the tag. This will open th
 
 If you access PlantProxy for the first time, it will ask you for registration with your email and a password. You will have to confirm the email address before proceeding.
 
+The app will ask permission for using your location. Please allow.
+
 ![](/images/tag-on-tree.jpeg)
 
 

@@ -3,6 +3,7 @@ title: Getting Started
 toc: true
 type: docs
 folder: open
+next: nfc-capable-mobiles.md
 ---
 
 **PlantProxy** is based on NFC which means *Near-field Communication*. It is a radio technology for very short distance, 1-2 cm. NFC is most commonly used for mobile payments, such as Google Pay and Apple Pay.

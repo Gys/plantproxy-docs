@@ -1,11 +1,18 @@
 ---
-title: Documentation
+title: Welcome to PlantProxy
 type: docs
 toc: true
-# next: docs/
+folder: open
+next: quickstart
 ---
 
-### [Getting Started](docs/)
+PlantProxy keeps a history of each plant. Track changes with photos and notes of individual plants and your whole land. To proudly see (and show!) what you achieved and to learn from interventions.
+
+### [Quickstart](quickstart)
+
+### [Guides](docs/)
+
+### [Frequently Asked Questions](faq)
 
 <!-- ## Explore
 

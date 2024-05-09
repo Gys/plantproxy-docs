@@ -1,8 +1,9 @@
 ---
-title: Getting Started
+title: Guides
 toc: true
 type: docs
 folder: open
+weight: 2
 next: nfc-capable-mobiles.md
 ---
 

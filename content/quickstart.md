@@ -23,7 +23,7 @@ Most mobile phones support NFC. Check by opening your phone and then **touching*
 The first time you will be asked to login.
 
 {{< callout type="warning" >}}
-Do not enter any plant details yet. Because the location is also stored, the details should be only added at the location of the plant.
+Do not enter any plant details yet. The location is also stored, therefore details should be added at the location of the plant.
 {{< /callout >}}
 ### Add your first plant
 

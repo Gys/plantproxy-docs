@@ -6,7 +6,7 @@ Deploy:
 Start local server:
     
     # first force rebuild
-    hugo --gc --ignoreCache && hugo server --logLevel debug --disableFastRender -p 1313 -v
+    hugo --gc --ignoreCache && hugo server --logLevel debug --disableFastRender -p 1313 --noHTTPCache --disableFastRender --ignoreCache -v
 
 Update all Hugo modules to latest:
 

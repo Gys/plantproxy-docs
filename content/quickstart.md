@@ -27,7 +27,7 @@ Do not enter any plant details yet. The location is also stored, therefore detai
 {{< /callout >}}
 ### Add your first plant
 
-Attach one of your tags to a plant and scan it. Give the plant a name and after saving you can add a photo by adding an observation.
+Attach one of your tags to a plant and scan it. Give the plant a name with description and save. Finally add your first observation with a photo.
 
 {{% /steps %}}
 

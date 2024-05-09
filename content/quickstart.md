@@ -16,7 +16,7 @@ Remember your password because you will need it the first time you use your mobi
 
 ### Test a tag with your phone
 
-Most more modern mobile phones support NFC. Check by opening your phone and **touching** the **top of backside** to one of your tags. In 1-2 seconds a popup should offer to open a link. More details [here](docs/nfc-capable-mobiles.md).
+Most more modern mobile phones support NFC. Check by opening your phone and **touching** the **top of backside** to one of your tags. In 1-2 seconds a popup should offer to open a link. More details [here](/docs/nfc-capable-mobiles).
 
 The first time you will be asked to login.
 

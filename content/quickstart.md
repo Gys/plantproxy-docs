@@ -18,7 +18,7 @@ Remember your password. You will need it for your mobile.
 
 ### Test a tag with your phone
 
-Most mobile phones support NFC. Check by opening your phone and then **touching** the **top of backside** to one of your tags. In 1-2 seconds a popup should offer to open a link. More phone details [here](/docs/nfc-capable-mobiles).
+Most mobile phones support NFC. Check by opening your phone and then **touching** the **top of the back** (where the camera is) to one tag. In 1-2 seconds a popup should offer to open a link. More phone details [here](/docs/nfc-capable-mobiles).
 
 The first time you will be asked to login.
 

@@ -1,6 +1,8 @@
 ---
 title: Frequently Asked Questions
 type: docs
+prev: /
+next: docs/
 ---
 
 {{% details title="What is the relation between plants and trees?" closed="true" %}}

@@ -4,6 +4,7 @@ toc: true
 type: docs
 folder: open
 weight: 2
+prev: /
 next: nfc-capable-mobiles.md
 ---
 

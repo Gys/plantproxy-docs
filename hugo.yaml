@@ -63,12 +63,6 @@ params:
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
 
-  ui:
-    breadcrumb_disable: true
-
-  # Hide breadcrumbs in the header and only show the current page title
-  disableBreadcrumb: true
-  
   # editURL:
   #   enable: true
   #   base: "https://github.com/imfing/hextra-starter-template/edit/main/content"

@@ -2,15 +2,15 @@
 title: Quickstart
 type: docs
 weight: 1
-# next: docs/
 prev: /
+next: docs/
 ---
 
 {{% steps %}}
 
 ### Create your account
 
-Sign up [here](https://app.plantproxy.com/register).
+Sign up [here](https://app.plantproxy.com/register) and check for our email to confirm your address.
 
 {{< callout type="info" >}}
 Remember your password. You will need it for your mobile.
@@ -31,7 +31,7 @@ Attach one of your tags to a plant and scan it. Give the plant a name and after 
 
 {{% /steps %}}
 
-### Dashboard
+### Done!
 
 Check your [dashboard](https://app.plantproxy.com/dashboard) to see your land!
 

@@ -18,9 +18,11 @@ Remember your password. You will need it for your mobile.
 
 ### Test a tag with your phone
 
-Most mobile phones support NFC. Check by opening your phone and then **touching** the **top of the back** (where the camera is) to one tag. In 1-2 seconds a popup should offer to open a link. More phone details [here](/docs/nfc-capable-mobiles).
+Most mobile phones support NFC. Check by opening your phone and then **touch** one tag with the **top of the back** (where the camera is). In 1-2 seconds a popup should offer to open a link. 
 
 The first time you will be asked to login.
+
+More phone details [here](/docs/nfc-capable-mobiles).
 
 {{< callout type="warning" >}}
 Do not enter any plant details yet. The location is also stored, therefore details should be added at the location of the plant.

@@ -2,7 +2,7 @@
 title: Using Tags
 type: docs
 # prev: /
-# next: docs/folder/
+next: faq
 ---
 
 Our tags have a small hole drilled to hold for example a thin metal wire, needed for attaching the tag to a plant. Because the tag has an embedded chip and antenna there should not be too much metal around. But a tin wire is no problem.

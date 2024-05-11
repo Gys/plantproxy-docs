@@ -13,7 +13,7 @@ Trees are a kind of plant. In botany, a tree is defined as a perennial plant wit
 
 {{% details title="The accuracy of the saved locations varies?" closed="true" %}}
 
-The error in measuring a location can vary a lot. PlantProxy shows an indication while adding a new item or observation. This error can be up to 30 meters or more. Below 8 meters is a good value.
+The error in measuring a location can vary a lot. PlantProxy shows an indication while adding a new item or observation. This error can be up to 30 meters or more. Below 10 meters is a good value. Less than 5 meters is only possible with specialized equipment.
 
 To improve the accuracy of measuring the location:
 - A high end mobile supports several satalite position systems.

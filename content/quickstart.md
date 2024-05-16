@@ -25,16 +25,16 @@ The first time you will be asked to login.
 More phone details [here](/docs/nfc-capable-mobiles).
 
 {{< callout type="warning" >}}
-Do not enter any plant details yet. The location is also stored, therefore details should be added at the location of the plant.
+Do not enter any plant details yet. The location is also stored; therefore, details should be added only at the location of the plant.
 {{< /callout >}}
 ### Add your first plant
 
-Attach one of your tags to a plant and scan it. Give the plant a name with description and save. Finally add your first observation with a photo.
+Attach one tag to a plant and scan it. Give the plant a name with a description and save. Finally, add your first *observation* with a nice photo!
 
 {{% /steps %}}
 
-### Done!
+### Done
 
 Check your [dashboard](https://app.plantproxy.com/dashboard) to see your land!
 
-Now that you know how it works keep adding plants :)
+Now that you know how it works, add more plants :)

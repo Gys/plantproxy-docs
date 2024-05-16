@@ -5,19 +5,14 @@ type: docs
 next: faq
 ---
 
-Our tags have a small hole drilled to hold for example a thin metal wire, needed for attaching the tag to a plant. Because the tag has an embedded chip and antenna there should not be too much metal around. But a tin wire is no problem.
+Our tags feature a small hole drilled to accommodate, for example, a thin metal wire, which is necessary for attaching the tag to a plant. Since the tag contains an embedded chip and antenna, it's important to avoid excessive metal nearby. However, using a thin wire poses no problem.
 
-Attach a tag to a tree like below. It should not be too loose because if moves a lot in the wind then it could damage the tree or break the wire.
+When attaching a tag to a tree, ensure it is secured in a manner that won't damage the plant during windy conditions.
 
-After attaching the tag you can scan it!
+Once the tag is attached, you can scan it! Open your phone and **touch** the tag with the **top of the back** (where the camera is). This will prompt the coded link of the tag to open. Your phone may ask for permission to open the link in a browser.
 
-Open your phone and hold the top very close (1 cm) to the tag. This will open the coded link of the tag. Your phone might need your permission to open the link in a browser. 
+If you're accessing PlantProxy for the first time, it will prompt you to log in. If you haven't registered yet, you'll also need to confirm your email address before proceeding.
 
-If you access PlantProxy for the first time, it will ask you for registration with your email and a password. You will have to confirm the email address before proceeding.
-
-The app will ask permission for using your location. Please allow.
+Additionally, the app will request permission to use your location. Please grant this permission.
 
 ![](/images/tag-on-tree.jpeg)
-
-
-

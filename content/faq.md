@@ -19,6 +19,7 @@ To improve the accuracy of measuring the location:
 - A high end mobile supports several satalite position systems.
 - Staying in the same spot with the mobile in the open will allow for more measurements in time, resulting in a smaller error.
 - An open sky makes it more easy for the mobile to 'see' more satellites which results in a smaller error.
+- Cm level accuracy is possible with professional equipment, see for example https://www.ardusimple.com/professional-sets/ and this explanation video https://www.youtube.com/watch?v=GzCFpW_kt6Q
 
 {{% /details %}}
 

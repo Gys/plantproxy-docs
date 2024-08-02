@@ -31,6 +31,8 @@ Do not enter any plant details yet. The location is also stored; therefore, deta
 
 Attach one tag to a plant and scan it. Give the plant a name with a description and save. Finally, add your first *observation* with a nice photo!
 
+More about using tags [here](/docs/using-tags).
+
 {{% /steps %}}
 
 ### Done
